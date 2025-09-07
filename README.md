@@ -1,6 +1,6 @@
 Job Tracker with Analytics
 
-This is a Full Stack Job Tracking Application designed to simplify the process of recording and monitoring job applications. It provides a clean dashboard where users can add, update, and review their job applications, while also getting insights through charts and analytics.
+This is a Full Stack Job Tracking Application designed to simplify the process of recording and monitoring job applications. It provides a clean dashboard where users can add, update, and review their job applications, while also getting insights analytics.
 
 ✨ Features
 
@@ -24,12 +24,3 @@ Database: MongoDB
 
 Authentication: Session-based login
 
-Charts & Analytics: Chart.js
-
-📊 Analytics Dashboard
-
-View your applications by status in bar and line charts.
-
-Filter data by date range (last 7 days, this month, custom range).
-
-Track your progress over time.
